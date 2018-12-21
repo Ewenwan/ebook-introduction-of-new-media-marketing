@@ -1,5 +1,5 @@
 ---
-title: 《让创意更有黏性》读书笔记
+title: 如何让创意更有黏性
 date: 2017-08-03
 permalink: how-to-make-ideas-stick
 tags: [新媒体、营销、创意]

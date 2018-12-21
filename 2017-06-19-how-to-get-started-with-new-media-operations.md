@@ -1,5 +1,5 @@
 ---
-title: 新媒体要如何入门
+title: 如何入门新媒体运营
 date: 2017-06-19
 permalink: how_to_get_started_with_new_media_operations
 tags: 新媒体入门
